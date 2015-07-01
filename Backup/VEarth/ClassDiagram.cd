@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="VEarth.Directions.RouteLeg">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Classes\Directions.cs</FileName>
+      <HashCode>AAAAAAIAAAAiAAAAIAAAAAAAAEAAAABAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VEarth.Directions.RouteDirections">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Classes\Directions.cs</FileName>
+      <HashCode>AAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAACAAFAAAABQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VEarth.Locations.SearchLocation">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Classes\Locations.cs</FileName>
+      <HashCode>AAAAAYAAAEEAgAAAAAAIAAAAAAEAAgAAAgAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VEarth.ucVEarth">
+    <Position X="5" Y="0.5" Width="9.5" />
+    <TypeIdentifier>
+      <FileName>ucVEarth.cs</FileName>
+      <HashCode>EQAAAMEnSaSnIEnASJCJAAjCCQBCEoAIAQADgRUgUAg=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="VEarth.ucVEarth.DisambiguationEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucVEarth.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="VEarth.ucVEarth.DistanceUnitEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucVEarth.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="VEarth.ucVEarth.RouteModeEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucVEarth.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="VEarth.ucVEarth.MapStyleEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucVEarth.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="VEarth.ucVEarth.DashboardStyleEnum" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ucVEarth.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>

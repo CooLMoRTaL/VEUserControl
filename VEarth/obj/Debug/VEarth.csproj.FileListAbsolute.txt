@@ -1,0 +1,39 @@
+C:\Sources\Codeplex\Bing Maps\VEarth\bin\Debug\VirtualEarth.html
+C:\Sources\Codeplex\Bing Maps\VEarth\bin\Debug\VEarth.dll
+C:\Sources\Codeplex\Bing Maps\VEarth\bin\Debug\VEarth.pdb
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\ResolveAssemblyReference.cache
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.ucVEarth.resources
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.csproj.GenerateResource.Cache
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.dll
+C:\Sources\Codeplex\Bing Maps\VEarth\obj\Debug\VEarth.pdb
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\bin\Debug\VirtualEarth.html
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\bin\Debug\VEarth.dll
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\bin\Debug\VEarth.pdb
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\obj\Debug\VEarth.ucVEarth.resources
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\obj\Debug\VEarth.dll
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEarth\obj\Debug\VEarth.pdb
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\VEarth\bin\Debug\VirtualEarth.html
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\VEarth\bin\Debug\VEarth.dll
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\VEarth\bin\Debug\VEarth.pdb
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\VEarth\obj\Debug\VEarth.ucVEarth.resources
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\VEarth\obj\Debug\VEarth.csproj.GenerateResource.Cache
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\VEarth\obj\Debug\VEarth.dll
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\VEarth\obj\Debug\VEarth.pdb
+C:\VEUSerControl\VEarth\bin\Debug\VirtualEarth.html
+C:\VEUSerControl\VEarth\bin\Debug\VEarth.dll
+C:\VEUSerControl\VEarth\bin\Debug\VEarth.pdb
+C:\VEUSerControl\VEarth\obj\Debug\VEarth.ucVEarth.resources
+C:\VEUSerControl\VEarth\obj\Debug\VEarth.csproj.GenerateResource.Cache
+C:\VEUSerControl\VEarth\obj\Debug\VEarth.dll
+C:\VEUSerControl\VEarth\obj\Debug\VEarth.pdb
+D:\Github\VEUserControl\VEarth\bin\Debug\VirtualEarth.html
+D:\Github\VEUserControl\VEarth\bin\Debug\VEarth.dll
+D:\Github\VEUserControl\VEarth\bin\Debug\VEarth.pdb
+D:\Github\VEUserControl\VEarth\obj\Debug\VEarth.csprojResolveAssemblyReference.cache
+D:\Github\VEUserControl\VEarth\obj\Debug\VEarth.ucVEarth.resources
+D:\Github\VEUserControl\VEarth\obj\Debug\VEarth.csproj.GenerateResource.Cache
+D:\Github\VEUserControl\VEarth\obj\Debug\VEarth.dll
+D:\Github\VEUserControl\VEarth\obj\Debug\VEarth.pdb

@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Container.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Search" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rotterdam, Holland
+Amsterdam, Holland
+Dordrecht, Holland</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

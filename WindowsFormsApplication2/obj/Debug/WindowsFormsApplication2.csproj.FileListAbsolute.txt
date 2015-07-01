@@ -1,0 +1,13 @@
+C:\VEUSerControl\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\VEUSerControl\WindowsFormsApplication2\bin\Debug\VirtualEarth.html
+C:\VEUSerControl\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\VEUSerControl\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\VEUSerControl\WindowsFormsApplication2\bin\Debug\VEarth.dll
+C:\VEUSerControl\WindowsFormsApplication2\bin\Debug\VEarth.pdb
+C:\VEUSerControl\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\VEUSerControl\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\VEUSerControl\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\VEUSerControl\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\VEUSerControl\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\VEUSerControl\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\VEUSerControl\WindowsFormsApplication2\bin\Debug\Copy of VirtualEarth.html

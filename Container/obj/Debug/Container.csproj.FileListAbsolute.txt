@@ -1,0 +1,53 @@
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\Container.exe.config
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\VirtualEarth.html
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\Container.exe
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\Container.pdb
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\VEarth.dll
+C:\Sources\Codeplex\Bing Maps\Container\bin\Debug\VEarth.pdb
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\ResolveAssemblyReference.cache
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.FrmDemo.resources
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.Properties.Resources.resources
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.csproj.GenerateResource.Cache
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.exe
+C:\Sources\Codeplex\Bing Maps\Container\obj\Debug\Container.pdb
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\bin\Debug\Container.exe.config
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\obj\Debug\Container.exe
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\obj\Debug\Container.pdb
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\bin\Debug\VirtualEarth.html
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\bin\Debug\Container.exe
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\bin\Debug\Container.pdb
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\bin\Debug\VEarth.dll
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\bin\Debug\VEarth.pdb
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\obj\Debug\Container.FrmDemo.resources
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\obj\Debug\Container.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Container\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\bin\Debug\Container.exe.config
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\obj\Debug\Container.exe
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\obj\Debug\Container.pdb
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\bin\Debug\VirtualEarth.html
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\bin\Debug\Container.exe
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\bin\Debug\Container.pdb
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\bin\Debug\VEarth.dll
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\bin\Debug\VEarth.pdb
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\obj\Debug\Container.FrmDemo.resources
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\obj\Debug\Container.Properties.Resources.resources
+C:\Users\isray_000\Desktop\Bing\VEUSerControl\Container\obj\Debug\Container.csproj.GenerateResource.Cache
+C:\VEUSerControl\Container\bin\Debug\Container.exe.config
+C:\VEUSerControl\Container\obj\Debug\Container.exe
+C:\VEUSerControl\Container\obj\Debug\Container.pdb
+C:\VEUSerControl\Container\bin\Debug\VirtualEarth.html
+C:\VEUSerControl\Container\bin\Debug\Container.exe
+C:\VEUSerControl\Container\bin\Debug\Container.pdb
+C:\VEUSerControl\Container\bin\Debug\VEarth.dll
+C:\VEUSerControl\Container\bin\Debug\VEarth.pdb
+C:\VEUSerControl\Container\obj\Debug\Container.csprojResolveAssemblyReference.cache
+C:\VEUSerControl\Container\obj\Debug\Container.FrmDemo.resources
+C:\VEUSerControl\Container\obj\Debug\Container.Properties.Resources.resources
+C:\VEUSerControl\Container\obj\Debug\Container.csproj.GenerateResource.Cache
+C:\VEUSerControl\Container\bin\Debug\Copy of VirtualEarth.html
+D:\Github\VEUserControl\Container\bin\Debug\Container.exe.config
+D:\Github\VEUserControl\Container\obj\Debug\Container.exe
+D:\Github\VEUserControl\Container\obj\Debug\Container.pdb

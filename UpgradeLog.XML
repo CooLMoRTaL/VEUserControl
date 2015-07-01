@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VEUSerControl">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Administrator\Desktop\VEUSerControl\VEUSerControl.sln">
+</Property><Property Name="Date" Value="Thursday, May 21, 2015">
+</Property><Property Name="Time" Value="9:29 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="VEUSerControl.sln" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEUSerControl.sln">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Container.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\Container.csproj">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\FrmDemo.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\FrmDemo.cs">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\FrmDemo.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\FrmDemo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\Program.cs">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\app.config" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\app.config">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\FrmDemo.resx" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\FrmDemo.resx">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\Container\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Container" Source="Container\Container.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Container.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Container" Source="Container\Container.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\VEarth.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\VEarth.csproj">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\Classes\Directions.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\Classes\Directions.cs">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\Classes\Locations.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\Classes\Locations.cs">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\FormPrint.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\FormPrint.cs">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\Classes\Shape.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\Classes\Shape.cs">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\ucVEarth.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\ucVEarth.cs">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\ucVEarth.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\ucVEarth.Designer.cs">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\ClassDiagram.cd" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\ClassDiagram.cd">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\VirtualEarth.html" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\VirtualEarth.html">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\ucVEarth.resx" Description="File successfully backed up as C:\Documents and Settings\Administrator\Desktop\VEUSerControl\Backup\VEarth\ucVEarth.resx">
+</Event><Event ErrorLevel="1" Project="VEarth" Source="VEarth\VEarth.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\VEarth.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VEarth" Source="VEarth\VEarth.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VEUSerControl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VEUSerControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Container" Source="Container\Container.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="VEarth" Source="VEarth\VEarth.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
